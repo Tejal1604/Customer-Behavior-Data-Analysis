@@ -1,0 +1,2 @@
+# Customer-Behavior-Data-Analysis
+Customer shopping behavior analysis using Python, SQL and Power BI.

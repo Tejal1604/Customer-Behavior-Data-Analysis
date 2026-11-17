@@ -30,3 +30,35 @@ The project uses the `customer_shopping_behavior.csv` dataset, which contains cu
 - Uncovered actionable customer purchasing and retention patterns.
 - Designed and built an interactive Power BI dashboard to communicate key KPIs.
 
+- ## Implementation
+
+The project was implemented in the following steps:
+
+**1. Data Loading**
+- Loaded the customer shopping behavior dataset (CSV file).
+- Explored the dataset to understand its structure, columns, and records.
+
+**2. Data Analysis Using Python**
+- Opened and executed the Jupyter Notebook.
+- Performed data exploration and analysis to understand customer purchasing patterns.
+
+**3. Database Setup Using MySQL**
+- Created a database named `customer_behavior`.
+- Imported the CSV dataset into MySQL Workbench.
+- Renamed the customer ID column for easier querying.
+
+**4. SQL Analysis**
+- Executed SQL queries to analyze customer shopping behavior.
+- Used aggregate functions, subqueries, CASE statements, CTEs, and window functions.
+- Analyzed revenue, discounts, product ratings, customer segments, and purchasing patterns.
+
+**5. Power BI Dashboard**
+- Opened and explored the provided Power BI dashboard.
+- Reviewed visualizations related to customer shopping behavior.
+
+**6. Results**
+- Identified customer purchasing patterns.
+- Compared revenue across different customer groups.
+- Analyzed discount usage and product performance.
+- Explored customer segmentation and repeat purchasing behavior.
+
